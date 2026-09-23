@@ -175,7 +175,7 @@
 你看有叔叔在餵鴿子欸。[p]
 [_tb_end_text]
 
-[glink  color="ts19"  storage="scene1.ks"  size="30"  autopos="true"  text="還趕下來啊！冰鳥！！！"  x="100"  y="100"  width="400"  height="400"  _clickable_img=""  target="*go00"  ]
+[glink  color="ts19"  storage="scene1.ks"  size="30"  autopos="true"  text="還敢下來啊！冰鳥！！！"  x="100"  y="100"  width="400"  height="400"  _clickable_img=""  target="*go00"  ]
 [glink  color="ts19"  storage="scene1.ks"  size="30"  text="佛心公司！佛心公司！"  target="*01sbplus2"  width="400"  height="400"  autopos="true"  ]
 [s  ]
 *go00
