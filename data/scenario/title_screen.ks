@@ -24,7 +24,7 @@
 [l  ]
 [playbgm  volume="70"  time="1000"  loop="true"  storage="230804_healing4_loop.ogg"  ]
 [tb_eval  exp="f.sb=0"  name="sb"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
-[bg  storage="title02.png"  ]
+[bg  storage="samune.png"  ]
 *title
 
 [glink  color="btn_02_purple"  text="開始新遊戲"  x="242"  y="361"  size="20"  target="*start"  width="300"  height=""  _clickable_img=""  ]
