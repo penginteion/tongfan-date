@@ -1,0 +1,5 @@
+[eval exp="f._system_preview_ks='Aend.ks'"] 
+[preload  storage="./data/fgimage/default/forever.png"  ]
+[preload  storage="./data/fgimage/chara/1/jirai_girl_happy.png"  ]
+[preload  storage="./data/fgimage/chara/1/jirai_girl_smile.png"  ]
+[return] 
